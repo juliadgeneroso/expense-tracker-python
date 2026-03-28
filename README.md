@@ -1,4 +1,4 @@
-#Expense Tracker in Python
+# Expense Tracker in Python
 
 A simple personal expense tracker developed in Python.
 This project allows users to manage their expense by adding, viewing, categorizing, and analyzing spending.
