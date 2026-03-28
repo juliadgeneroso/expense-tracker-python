@@ -48,7 +48,7 @@ elif opcao == "4":
 
 elif opcao == "5":
   if not gastos:
-    print(Nenhum gasto para remover.")
+    print("Nenhum gasto para remover.")
   else:
     for i, gasto in enumerate(gastos, 1):
       print(f"{i}. {gasto['nome']} - R$ {gasto['valor']}")
@@ -63,8 +63,7 @@ elif opcao == "5":
 
 elif opcao == "6":
   print("Saindo...")
-  break
+      break
 
 else:
   print("Opção inválida")
-
